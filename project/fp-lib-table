@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "ts9_v03")(type "KiCad")(uri "$(KIPRJMOD)/ts9_v03.pretty")(options "")(descr ""))
+)
