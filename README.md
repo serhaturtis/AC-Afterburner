@@ -2,8 +2,9 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/serhaturtis/ac_afterburner">
-    <img src="outputs/images/front.png" alt="AFTERBURNER" width="300">
+  <a href="https://github.com/serhaturtis/AC-Afterburner">
+    <img src="outputs/images/front.png" alt="AFTERBURNER" width="500">
+    <img src="outputs/pcb/pcb.PNG" alt="AFTERBURNER" width="500">
   </a>
 
 <h3 align="center">AFTERBURNER</h3>
@@ -26,3 +27,5 @@ I wanted to test the effects so that I can use them on another project. So I mad
 ## How?
 
 This is imported from Eagle to KiCad 6 while I was backing up my projects. So the schematic's look is a bit janky.
+
+Diodes are used for clipping, can experiment with different combinations, LEDs etc.
