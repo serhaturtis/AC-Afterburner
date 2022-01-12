@@ -3,8 +3,8 @@
 <br />
 <div align="center">
   <a href="https://github.com/serhaturtis/AC-Afterburner">
-    <img src="outputs/images/front.png" alt="AFTERBURNER" width="500">
-    <img src="outputs/pcb/pcb.PNG" alt="AFTERBURNER" width="500">
+    <img src="outputs/images/front.png" alt="AFTERBURNER" height="400">
+    <img src="outputs/pcb/pcb.PNG" alt="AFTERBURNER" height="400">
   </a>
 
 <h3 align="center">AFTERBURNER</h3>
